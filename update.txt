@@ -4,4 +4,4 @@ Yeni döneme ait katsayılar yayınlanmıştır. Lütfen katsayılar bölümünd
 İkinci satır 0 ise mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
 İkinci satır 2 ise güncelleme mesajı
-Üçüncü satır version numarası
+Üçüncü satır güncellenen son version numarası
