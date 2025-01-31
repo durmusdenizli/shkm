@@ -1,4 +1,4 @@
-Yeni döneme ait katsayılar yayınlanmıştır. Lütfen katsayılar bölümünden yeni katsayıları indirin.
+Yeni döneme ait katsayılar yayınlanmıştır. Lütfen katsayılar bölümünden yeni katsayıları indirin. Ayrıca uygulamanın güncel versiyonu yayınlanmıştır.
 1
 1.6
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
