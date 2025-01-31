@@ -1,6 +1,6 @@
-Yeni döneme ait katsayılar yayınlanmıştır. Lütfen katsayılar bölümünden yeni katsayıları indirin. Ayrıca uygulamanın güncel versiyonu yayınlanmıştır.
+Yeni döneme ait katsayılar yayınlanmıştır. Lütfen katsayılar bölümünden yeni katsayıları indirin.
 1
-1.6
+1.5
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
 İkinci satır 2 ise güncelleme mesajı
