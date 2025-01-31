@@ -1,5 +1,5 @@
 Yeni döneme ait katsayılar yayınlanmıştır. Lütfen katsayılar bölümünden yeni katsayıları indirin.
-1
+0
 1.5
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
