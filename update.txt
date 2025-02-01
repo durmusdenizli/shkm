@@ -1,5 +1,5 @@
-Lütfen katsayılar bölümünden yeni katsayıları indirin. Eğer indirdiyseniz bir şey yapmanıza gerek yoktur.
-0
+Durmuş Eğer indirdiyseniz bir şey yapmanıza gerek yoktur.
+1
 1.5
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
