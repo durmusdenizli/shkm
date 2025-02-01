@@ -1,6 +1,6 @@
 Durmuş Eğer indirdiyseniz bir şey yapmanıza gerek yoktur.
 1
-1.5
+1.6
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
 İkinci satır 2 ise güncelleme mesajı
