@@ -1,4 +1,4 @@
-Durmuş Eğer indirdiyseniz bir şey yapmanıza gerek yoktur.
+Uygulamanın 1.6 versiyonu yayınlanmıştır. Lütfen güncellemenizi yapınız. 
 0
 1.6
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
