@@ -1,7 +1,8 @@
-Uygulamanın 1.6 versiyonu yayınlanmıştır. Lütfen güncellemenizi yapınız. 
-0
+2025/2 Temmuz dönemi katsayıları yayınlamıştır. Lütfen katayılar bölümünden güncellemenizi yapınız. 
+1
 1.6
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
 İkinci satır 2 ise güncelleme mesajı
 Üçüncü satır güncellenen son version numarası
+birinci satıra bilgi mesajı yazılacak
