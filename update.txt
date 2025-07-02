@@ -1,4 +1,4 @@
-2025/2 Temmuz dönemi katsayıları yayınlamıştır. Lütfen katayılar bölümünden güncellemenizi yapınız. 
+2025/2 Temmuz dönemi katsayıları yayınlamıştır. Lütfen katayılar bölümünden güncellemenizi yapmayı unutmayın. 
 1
 1.6
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
