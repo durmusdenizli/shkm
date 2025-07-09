@@ -1,5 +1,5 @@
 2025/2 Temmuz dönemi katsayıları yayınlamıştır. Lütfen "Katsayı İndir" sekmesinden katsayılarınızı güncellemeyi unutmayın. 
-1
+0
 1.6
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
