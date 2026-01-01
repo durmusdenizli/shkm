@@ -1,6 +1,6 @@
 2026/1 Ocak dönemi katsayıları yayınlamıştır. Lütfen "Katsayı İndir" sekmesinden katsayılarınızı güncellemeyi unutmayın. 
 1
-1.6
+1.7
 İkinci satır 0 ise açılışta mesaj ekranı gelmeyecek
 İkinci satır 1 ise bilgilendirme mesajı
 İkinci satır 2 ise güncelleme mesajı
